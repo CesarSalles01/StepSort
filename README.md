@@ -107,6 +107,6 @@ http://127.0.0.1:5000/health
 
 ---
   
-📄 Licença
+## 📄 Licença
 
 MIT License — sinta-se à vontade para utilizar, estudar e adaptar este projeto.
