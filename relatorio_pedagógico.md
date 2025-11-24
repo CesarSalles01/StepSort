@@ -15,7 +15,7 @@ Grupo 5: Cesar Augusto Salles Marcondes e Ryan Juvenal Santos Oliveira
 ## 🎯 2. Objetivo Pedagógico
 
 O StepSort tem como objetivo fornecer uma ferramenta interativa e educacional para estudantes de programação, permitindo que compreendam visualmente o funcionamento dos algoritmos de ordenação. 
-Por meio das comparações e trocas realizadas pelos Bubble Sort e Selection Sort, o aluno consegue entender de maneira intuitiva como cada algoritmo opera. 
+Por meio das comparações e trocas realizadas pelos Bubble Sort, Selection Sort e Insertion Sort, o aluno consegue entender de maneira intuitiva como cada algoritmo opera. 
 
 ---
 
@@ -28,7 +28,7 @@ Ao final, o usuário recebe as informações do tempo de execução, a quantidad
 
 ## 📘 4. Conteúdo Relacionado à Disciplina
 
-- Algoritmos de ordenação (Bubble Sort e Selection Sort) 
+- Algoritmos de ordenação (Bubble Sort, Selection Sort e Insertion Sort) 
 - Notação assintótica e análise de complexidade (O(n²), melhor e pior caso) 
 - Comparações e trocas como operações fundamentais na construção de algoritmos 
 - Execução determinística e análise passo a passo 
