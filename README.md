@@ -1,7 +1,7 @@
 # 📊 StepSort
 
 **StepSort** é uma aplicação web desenvolvida em **Flask** que demonstra algoritmos de ordenação passo a passo.  
-O sistema permite que o usuário insira números manualmente ou gere listas aleatórias, e visualize como os algoritmos **Bubble Sort** e **Selection Sort** organizam os dados.
+O sistema permite que o usuário insira números manualmente ou gere listas aleatórias, e visualize como os algoritmos **Bubble Sort**, **Selection Sort** **Insertion Sort**  organizam os dados.
 
 ---
 
@@ -75,7 +75,38 @@ http://127.0.0.1:5000/health
 
 ---
 
+## 📷 Demonstração
+
+<img width="1453" height="792" alt="StepSort  Menu_principal" src="https://github.com/user-attachments/assets/8d435deb-fd1a-4617-9032-71471aaf7dae" />
+
+<img width="1297" height="903" alt="StepSort  Tela_Ordenação" src="https://github.com/user-attachments/assets/a83278d7-ebcc-4774-b3ea-065e6fff1c92" />
+
+---
+
 ## 👥 Integrantes do Grupo
 
 - **Ryan Juvenal Santos Oliveira**
 - **Cesar Augusto Salles Marcondes**
+
+---
+
+## 📘 Disciplinas Envolvidas
+
+- Computabilidade e Complexidade de Algoritmos
+- Linguagens Formais e Autômatos
+
+---
+
+## 🏫 Informações Acadêmicas
+
+- Universidade: **Universidade Braz Cubas**
+- Curso: **Ciência da Computação**
+- Semestre: 6º
+- Período: Noite
+- Professora orientadora: **Dra. Andréa Ono Sakai**
+
+---
+  
+📄 Licença
+
+MIT License — sinta-se à vontade para utilizar, estudar e adaptar este projeto.
